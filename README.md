@@ -1,5 +1,7 @@
 # Favorite Android Apps
 
+**Write-up:** [My favourite Android apps: a power user's list, with notes](https://blog.danielrosehill.com/posts/favorite-android-apps-power-user-list-sso1va/)
+
 Android apps I actually use and recommend, with a line on why where I had one. Picked from my phone and my Google Play library; apps since removed from the Play Store are left out.
 
 - **Favorites** (110): what's on my phone now.
