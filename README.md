@@ -2,7 +2,10 @@
 
 Android apps I actually use and recommend, with a line on why where I had one. Picked from my phone and my Google Play library; apps since removed from the Play Store are left out.
 
-The same list as data: [`exports/2026-11-16/apps.json`](exports/2026-11-16/apps.json) (name, package, category, source, link, comment). Each new review adds a dated export.
+- **Favorites** (110): what's on my phone now.
+- **[Also good](#also-good)** (65): apps I've used before and would still recommend, all updated on the Play Store within the last year.
+
+The same list as data: [`exports/2026-11-16/apps.json`](exports/2026-11-16/apps.json) (name, package, category, section, source, link, comment). Each new review adds a dated export.
 
 ## Automation & power use
 
@@ -149,3 +152,105 @@ The same list as data: [`exports/2026-11-16/apps.json`](exports/2026-11-16/apps.
 - **[Local UTC Widget](https://github.com/danielrosehill/Local-UTC-Widget)**
 - **[Selection Case Converter](https://github.com/danielrosehill/Android-Selection-Case-Converter)**
 - **[Family First Aid](https://github.com/danielrosehill/Family-First-Aid-Android)**
+
+## Also good
+
+Not on my phone right now, but apps I've installed at some point and that are still actively maintained.
+
+### Automation & power use
+
+- **[HTTP Request Shortcuts](https://play.google.com/store/apps/details?id=ch.rmy.android.http_shortcuts)**: Home-screen buttons that fire HTTP and webhook calls; pairs well with Tasker and Home Assistant.
+- **[Button Mapper: Remap your keys](https://play.google.com/store/apps/details?id=flar2.homebutton)**: Remap hardware buttons; a good companion to Key Mapper.
+- **[LADB — Local ADB Shell](https://play.google.com/store/apps/details?id=com.draco.ladb)**: An ADB shell on the phone itself.
+- **[NFC Tasks](https://play.google.com/store/apps/details?id=com.wakdev.nfctasks)**: Companion to NFC Tools: runs the tasks written to NFC tags.
+- **[Activity Launcher](https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher)**: Launch hidden activities and make shortcuts to them.
+
+### Audio & voice
+
+- **[FUTO Voice Input](https://play.google.com/store/apps/details?id=org.futo.voiceinput)**: Offline Whisper dictation as an input method.
+- **[FUTO Keyboard](https://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore)**: Privacy-first keyboard with offline voice typing built in.
+- **[AudioRelay: Stream audio & mic](https://play.google.com/store/apps/details?id=com.azefsw.audioconnect)**: Streams the phone's mic (or audio) to a desktop.
+- **[WO Mic](https://play.google.com/store/apps/details?id=com.wo.voice2)**: Use the phone as a PC microphone.
+- **[RecForge II Pro: Voice Rec](https://play.google.com/store/apps/details?id=dje073.android.modernrecforgepro)**: A pro recorder with fine control over formats and quality.
+- **[Tape-a-Talk Voice Recorder](https://play.google.com/store/apps/details?id=name.markus.droesser.tapeatalk)**: A dependable long-running voice recorder.
+- **[Live Transcribe & notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)**: Google's on-device live captions and transcription.
+- **[Typeless: AI Voice Keyboard](https://play.google.com/store/apps/details?id=com.typeless.mobile)**: AI voice keyboard that cleans up dictation.
+- **[AntennaPod - Podcast Player](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)**: Open-source podcast player.
+- **[Snipd | AI Podcast Player](https://play.google.com/store/apps/details?id=ai.topicfinder.podcastdiscovery)**: AI podcast player with snips and transcripts.
+
+### Noise & sensors
+
+- **[NoiseCapture](https://play.google.com/store/apps/details?id=org.noise_planet.noisecapture)**: Calibratable noise measurement that contributes to shared noise maps.
+- **[SoundPrint, Find Quiet Places](https://play.google.com/store/apps/details?id=com.soundprint)**: Crowd-sourced noise meter for finding quiet places.
+- **[Sensors Multitool](https://play.google.com/store/apps/details?id=com.wered.sensorsmultitool)**: Every sensor on the phone in one app.
+
+### Self-hosting & smart home
+
+- **[ntfy - PUT/POST to your phone](https://play.google.com/store/apps/details?id=io.heckel.ntfy)**: Self-hostable push notifications via simple HTTP PUT/POST.
+- **[Gotify](https://play.google.com/store/apps/details?id=com.github.gotify)**: Client for a self-hosted Gotify push server.
+- **[Viewer for Frigate](https://play.google.com/store/apps/details?id=com.frigateviewer)**: Viewer for the Frigate NVR.
+- **[HA Widgets for Home Assistant](https://play.google.com/store/apps/details?id=dk.rtr.hawidgets)**: Home Assistant widgets for the home screen.
+- **[Kontainer: Portainer Mobile](https://play.google.com/store/apps/details?id=com.devculi.kontainer)**: Portainer client for managing Docker stacks.
+- **[Netdata Mobile](https://play.google.com/store/apps/details?id=cloud.netdata.android)**: Server monitoring on the go.
+- **[Proxmox Virtual Environment](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend)**: The official Proxmox VE app.
+- **[Syncthing-Fork](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)**: Syncthing, the maintained Android fork.
+- **[Audiobookshelf](https://play.google.com/store/apps/details?id=com.audiobookshelf.app)**: Client for a self-hosted audiobook and podcast server.
+- **[MQTT Client - Tasker & IoT&JS](https://play.google.com/store/apps/details?id=com.shan.livemq)**: MQTT client with Tasker integration.
+
+### Networking
+
+- **[PCAPdroid - network monitor](https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture)**: Packet capture and network monitoring without root.
+- **[Fing - Network Tools](https://play.google.com/store/apps/details?id=com.overlook.android.fing)**: LAN scanner and device identification.
+- **[NetSpot WiFi Heat Map Analyzer](https://play.google.com/store/apps/details?id=com.etwok.netspotapp)**: Wi-Fi heat-mapping and site surveys.
+- **[LTE Discovery](https://play.google.com/store/apps/details?id=net.simplyadvanced.ltediscovery)**: Detailed cellular band and signal information.
+- **[Network Cell Info & Wifi](https://play.google.com/store/apps/details?id=com.wilysis.cellinfo)**: Cell and Wi-Fi signal information.
+- **[Meshtastic](https://play.google.com/store/apps/details?id=com.geeksville.mesh)**: Meshtastic: off-grid LoRa mesh messaging.
+- **[WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)**: The official WireGuard client.
+- **[IPinfo](https://play.google.com/store/apps/details?id=io.ipinfo.android)**: IP address lookup.
+- **[ConnectBot: SSH & Mosh client](https://play.google.com/store/apps/details?id=org.connectbot)**: Open-source SSH client.
+- **[AVNC](https://play.google.com/store/apps/details?id=com.gaurav.avnc)**: Open-source VNC client.
+- **[HTTP Toolkit](https://play.google.com/store/apps/details?id=tech.httptoolkit.android.v1)**: Intercept and debug HTTP(S) traffic.
+
+### Camera, evidence & measuring
+
+- **[TrueScreen: certified evidence](https://play.google.com/store/apps/details?id=com.truescreen.app)**: Certified photo and video evidence.
+- **[Truepic Vision](https://play.google.com/store/apps/details?id=com.truepic.vision)**: Verified photo capture with provenance.
+- **[Evidence Camera & Metadata Pro](https://play.google.com/store/apps/details?id=com.cyprnet.smartmetadatacamerapro)**: Evidence camera with metadata overlays.
+- **[CubiCasa | 2D & 3D Floor Plans](https://play.google.com/store/apps/details?id=cubi.casa.cubicasaandroidapp)**: Floor plans from a quick phone scan.
+- **[Polycam: 3D Model Maker](https://play.google.com/store/apps/details?id=ai.polycam)**: 3D capture via LiDAR and photogrammetry.
+- **[KIRI Engine: 3D Scanner App](https://play.google.com/store/apps/details?id=com.kiriengine.app)**: Photogrammetry 3D scanner.
+- **[White Balance Kelvin Meter](https://play.google.com/store/apps/details?id=com.contechity.color_temp_meter)**: Colour temperature (Kelvin) meter.
+- **[Larix Broadcaster: Live Stream](https://play.google.com/store/apps/details?id=com.wmspanel.larix_broadcaster)**: Use the phone as a live-stream camera (SRT/RTMP).
+- **[StreamCtrl - Remote for OBS](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote)**: Remote control for OBS.
+
+### Privacy & security
+
+- **[FairEmail, privacy aware email](https://play.google.com/store/apps/details?id=eu.faircode.email)**: Privacy-focused open-source email client.
+- **[Ente Photos - Encrypted Backup](https://play.google.com/store/apps/details?id=io.ente.photos)**: End-to-end encrypted photo backup.
+- **[Yubico Authenticator](https://play.google.com/store/apps/details?id=com.yubico.yubioath)**: TOTP codes stored on a YubiKey.
+- **[2FA Authenticator (2FAS)](https://play.google.com/store/apps/details?id=com.twofasapp)**: Open-source two-factor authenticator.
+- **[Briar](https://play.google.com/store/apps/details?id=org.briarproject.briar.android)**: Messaging over Tor or a local mesh, even without internet.
+- **[Bitwarden Password Manager](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**: Open-source password manager.
+
+### Maps
+
+- **[Organic Maps・Offline Map & GPS](https://play.google.com/store/apps/details?id=app.organicmaps)**: Offline OpenStreetMap maps, privacy-first.
+- **[Israel Hiking Map](https://play.google.com/store/apps/details?id=il.org.osm.israelhiking)**: The best trail map for hiking in Israel.
+- **[SW Maps - GIS & Data Collector](https://play.google.com/store/apps/details?id=np.com.softwel.swmaps)**: GIS data collection in the field.
+
+### AI
+
+- **[PocketPal AI](https://play.google.com/store/apps/details?id=com.pocketpalai)**: Run small LLMs on the phone.
+- **[LM Playground](https://play.google.com/store/apps/details?id=com.druk.lmplayground)**: On-device LLM playground.
+- **[Happy: Codex & Claude Code App](https://play.google.com/store/apps/details?id=com.ex3ndr.happy)**: Run Claude Code and Codex sessions from the phone.
+
+### Israel
+
+- **[Tzofar - Red Alert | צופר](https://play.google.com/store/apps/details?id=com.redalert.tzevaadom)**: Tzofar: rocket and missile alerts in Israel.
+
+### Utilities
+
+- **[iFixit](https://play.google.com/store/apps/details?id=com.ifixit.ifixitmobile)**: Repair guides.
+- **[Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)**: Scanner for the open food products database.
+- **[Grocy: Grocery Management](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy)**: Client for a self-hosted Grocy household inventory.
+- **[Flic](https://play.google.com/store/apps/details?id=io.flic.app)**: Flic smart buttons for one-press automations.

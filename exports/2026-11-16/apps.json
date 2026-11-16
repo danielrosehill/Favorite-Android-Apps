@@ -8,7 +8,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
-   "comment": "The supreme king of Android automation."
+   "comment": "The supreme king of Android automation.",
+   "section": "favorites"
   },
   {
    "name": "AutoTools",
@@ -16,7 +17,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.joaomgcd.autotools",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "AutoInput",
@@ -24,7 +26,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "AutoNotification",
@@ -32,7 +35,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "AutoVoice",
@@ -40,7 +44,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "AutoRemote",
@@ -48,7 +53,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.joaomgcd.autoremote",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Automate",
@@ -56,7 +62,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.llamalab.automate",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "MacroDroid",
@@ -64,7 +71,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Key Mapper",
@@ -72,7 +80,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=io.github.sds100.keymapper",
-   "comment": "Key remappers are super useful for voice and dictation workflows, for instance binding macro pads to dictation apps. Very powerful when used together with MacroDroid and similar apps to fire intents. My usual pattern: Key Mapper does the interception, then Tasker or MacroDroid provides the automation glue."
+   "comment": "Key remappers are super useful for voice and dictation workflows, for instance binding macro pads to dictation apps. Very powerful when used together with MacroDroid and similar apps to fire intents. My usual pattern: Key Mapper does the interception, then Tasker or MacroDroid provides the automation glue.",
+   "section": "favorites"
   },
   {
    "name": "Shizuku",
@@ -80,7 +89,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Droid-ify",
@@ -88,7 +98,8 @@
    "category": "Automation & power use",
    "source": "F-Droid",
    "link": "https://f-droid.org/packages/com.looker.droidify/",
-   "comment": "My favourite F-Droid client. It makes sorting apps by repository easy, which is a great help for propagating updates from private F-Droid repos: my preferred way of sideloading the APKs I build as internal tools."
+   "comment": "My favourite F-Droid client. It makes sorting apps by repository easy, which is a great help for propagating updates from private F-Droid repos: my preferred way of sideloading the APKs I build as internal tools.",
+   "section": "favorites"
   },
   {
    "name": "SD Maid SE",
@@ -96,7 +107,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=eu.darken.sdmse",
-   "comment": "One of the few clean-up tools that's actually useful, in my opinion."
+   "comment": "One of the few clean-up tools that's actually useful, in my opinion.",
+   "section": "favorites"
   },
   {
    "name": "Termux",
@@ -104,7 +116,8 @@
    "category": "Automation & power use",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.termux",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Tailscale",
@@ -112,7 +125,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.tailscale.ipn",
-   "comment": "Essential remote access app."
+   "comment": "Essential remote access app.",
+   "section": "favorites"
   },
   {
    "name": "Windscribe",
@@ -120,7 +134,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.windscribe.vpn",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Speedify",
@@ -128,7 +143,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.speedify.speedifyandroid",
-   "comment": "A brilliant product to have on hand wherever connectivity is impaired."
+   "comment": "A brilliant product to have on hand wherever connectivity is impaired.",
+   "section": "favorites"
   },
   {
    "name": "NetMonster",
@@ -136,7 +152,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=cz.mroczis.netmonster",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "WiFi Analyzer",
@@ -144,7 +161,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "LocalSend",
@@ -152,7 +170,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.localsend.localsend_app",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "RCX (rclone)",
@@ -160,7 +179,8 @@
    "category": "Networking",
    "source": "F-Droid",
    "link": "https://f-droid.org/packages/io.github.x0b.rcx/",
-   "comment": "rclone is just about the best cloud CLI out there; this is a fantastic way to use it on remote devices."
+   "comment": "rclone is just about the best cloud CLI out there; this is a fantastic way to use it on remote devices.",
+   "section": "favorites"
   },
   {
    "name": "FolderSync",
@@ -168,7 +188,8 @@
    "category": "Networking",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full",
-   "comment": "One of the few Android apps I've used for many years, maybe even a decade. Vastly useful for all manner of cloud sync operations."
+   "comment": "One of the few Android apps I've used for many years, maybe even a decade. Vastly useful for all manner of cloud sync operations.",
+   "section": "favorites"
   },
   {
    "name": "ASR Voice Recorder",
@@ -176,7 +197,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.nll.asr",
-   "comment": "My go-to voice recorder. I use it constantly, for everything from voice-note prompts for AI tools to podcast episodes. I really appreciate how easy it makes setting up different recording profiles, with precise controls for each use case."
+   "comment": "My go-to voice recorder. I use it constantly, for everything from voice-note prompts for AI tools to podcast episodes. I really appreciate how easy it makes setting up different recording profiles, with precise controls for each use case.",
+   "section": "favorites"
   },
   {
    "name": "Easy Voice Recorder Pro",
@@ -184,7 +206,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro",
-   "comment": "I do so much voice work that I like to keep a second recorder on hand, and Easy Voice Recorder Pro is also excellent."
+   "comment": "I do so much voice work that I like to keep a second recorder on hand, and Easy Voice Recorder Pro is also excellent.",
+   "section": "favorites"
   },
   {
    "name": "USB Audio Recorder Pro",
@@ -192,7 +215,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.extreamsd.usbaudiorecorderpro",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Spectrum",
@@ -200,7 +224,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.intoorbit.spectrum",
-   "comment": "Having lived in far too many noisy apartments next to building sites and other noise nuisances, I like to keep at least one app on my phone for measuring noise and figuring out which frequencies are coming in. A simple spectrum analysis on an Android phone can often give you a head start on blocking a nuisance sound. This one is reliable and great."
+   "comment": "Having lived in far too many noisy apartments next to building sites and other noise nuisances, I like to keep at least one app on my phone for measuring noise and figuring out which frequencies are coming in. A simple spectrum analysis on an Android phone can often give you a head start on blocking a nuisance sound. This one is reliable and great.",
+   "section": "favorites"
   },
   {
    "name": "phyphox",
@@ -208,7 +233,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox",
-   "comment": "Absolutely outstanding: it exposes the phone's sensors. I've used it not only to figure out which frequencies were coming in from a noisy construction site, but even to use the gyroscope to work out how much of the sound was travelling as vibration. Mind-blowing that a consumer Android phone can do this."
+   "comment": "Absolutely outstanding: it exposes the phone's sensors. I've used it not only to figure out which frequencies were coming in from a noisy construction site, but even to use the gyroscope to work out how much of the sound was travelling as vibration. Mind-blowing that a consumer Android phone can do this.",
+   "section": "favorites"
   },
   {
    "name": "Wispr Flow",
@@ -216,7 +242,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.wispr.flowapp",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Whisperian",
@@ -224,7 +251,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=app.whisperian.client",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Ramblr",
@@ -232,7 +260,8 @@
    "category": "Audio & voice",
    "source": "F-Droid",
    "link": "https://f-droid.org/packages/com.trevornk.ramblr/",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Kokoro TTS",
@@ -240,7 +269,8 @@
    "category": "Audio & voice",
    "source": "F-Droid",
    "link": "https://f-droid.org/packages/dev.kokoro.tts/",
-   "comment": "My favourite engine for on-device TTS."
+   "comment": "My favourite engine for on-device TTS.",
+   "section": "favorites"
   },
   {
    "name": "SpeakThat",
@@ -248,7 +278,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.micoyc.speakthat",
-   "comment": "This became indispensable during the protracted war with Iran here in Israel, when we were often woken in the middle of the night by alerts. Having them read out in a calm, sometimes fun voice became a coping mechanism for the stress. Generally useful, and it fits my preference for using voice for just about everything, including receiving notifications."
+   "comment": "This became indispensable during the protracted war with Iran here in Israel, when we were often woken in the middle of the night by alerts. Having them read out in a calm, sometimes fun voice became a coping mechanism for the stress. Generally useful, and it fits my preference for using voice for just about everything, including receiving notifications.",
+   "section": "favorites"
   },
   {
    "name": "Podcast Addict",
@@ -256,7 +287,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict",
-   "comment": "The Pro version of Podcast Addict is my go-to podcast client. Very happy with it."
+   "comment": "The Pro version of Podcast Addict is my go-to podcast client. Very happy with it.",
+   "section": "favorites"
   },
   {
    "name": "Voice (audiobook player)",
@@ -264,7 +296,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=de.ph1b.audiobook",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "SoundCloud: Music & Audio",
@@ -272,7 +305,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Suno - AI Music & Songs Maker",
@@ -280,7 +314,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.suno.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "User Dictionary Manager (UDM)",
@@ -288,7 +323,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.usr.dict.mgr",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Voicenotes",
@@ -296,7 +332,8 @@
    "category": "Audio & voice",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.app.voicenotes",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Open Camera",
@@ -304,7 +341,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=net.sourceforge.opencamera",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Timestamp Camera",
@@ -312,7 +350,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamera",
-   "comment": "Extremely versatile and useful in so many situations: evidence for tenancy and landlord issues, templates for recording inventory, labelling network gear during tests, photographing PCBs when opening up components."
+   "comment": "Extremely versatile and useful in so many situations: evidence for tenancy and landlord issues, templates for recording inventory, labelling network gear during tests, photographing PCBs when opening up components.",
+   "section": "favorites"
   },
   {
    "name": "Genius Scan",
@@ -320,7 +359,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free",
-   "comment": "My favourite scanning tool, and a cornerstone of my lifelong effort to minimise paper and digitise whatever possible. A well thought-out app with quick workflows and shortcuts for sending scans to repeatable targets."
+   "comment": "My favourite scanning tool, and a cornerstone of my lifelong effort to minimise paper and digitise whatever possible. A well thought-out app with quick workflows and shortcuts for sending scans to repeatable targets.",
+   "section": "favorites"
   },
   {
    "name": "ProofMode",
@@ -328,7 +368,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.witness.proofmode",
-   "comment": "Another great app to have on your phone if you need to document photographs for legal or other reasons."
+   "comment": "Another great app to have on your phone if you need to document photographs for legal or other reasons.",
+   "section": "favorites"
   },
   {
    "name": "ImageMeter",
@@ -336,7 +377,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=de.dirkfarin.imagemeter",
-   "comment": "One of my all-time favourite apps, and one of the few I've carried across devices over the years. Unbelievably useful for anyone renovating or measuring up a place. I highly recommend the Pro plan."
+   "comment": "One of my all-time favourite apps, and one of the few I've carried across devices over the years. Unbelievably useful for anyone renovating or measuring up a place. I highly recommend the Pro plan.",
+   "section": "favorites"
   },
   {
    "name": "Binary Eye",
@@ -344,7 +386,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye",
-   "comment": "I always keep a QR code scanner as part of my home inventory system, and this is the one I like best."
+   "comment": "I always keep a QR code scanner as part of my home inventory system, and this is the one I like best.",
+   "section": "favorites"
   },
   {
    "name": "Aves",
@@ -352,7 +395,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=deckers.thibault.aves",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Bimostitch Panorama Pro",
@@ -360,7 +404,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.facebook.rethinkvision.Bimostitch.pro",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Cinema FV-5",
@@ -368,7 +413,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.flavionet.android.cinema.pro",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "DroidCam Webcam & OBS Camera",
@@ -376,7 +422,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Focus Stacking - Macro Camera",
@@ -384,7 +431,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.focusall.camera",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Pexels: HD+ videos & photos",
@@ -392,7 +440,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.pexels.app",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Screen Recorder - AZ Recorder",
@@ -400,7 +449,8 @@
    "category": "Camera & scanning",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Obsidian",
@@ -408,7 +458,8 @@
    "category": "Files, docs & notes",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=md.obsidian",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Standard Notes",
@@ -416,7 +467,8 @@
    "category": "Files, docs & notes",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.standardnotes",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Nuclino",
@@ -424,7 +476,8 @@
    "category": "Files, docs & notes",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.nuclino.nuclino_app",
-   "comment": "Huge fan of their approach to keeping notes simple. They had the best out-of-the-box Markdown handling before everyone started adding it for its usefulness as AI context."
+   "comment": "Huge fan of their approach to keeping notes simple. They had the best out-of-the-box Markdown handling before everyone started adding it for its usefulness as AI context.",
+   "section": "favorites"
   },
   {
    "name": "Inoreader",
@@ -432,7 +485,8 @@
    "category": "Files, docs & notes",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.innologica.inoreader",
-   "comment": "Key tooling for staying informed, especially living in a volatile part of the world."
+   "comment": "Key tooling for staying informed, especially living in a volatile part of the world.",
+   "section": "favorites"
   },
   {
    "name": "Todoist",
@@ -440,7 +494,8 @@
    "category": "Files, docs & notes",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.todoist",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "mpv",
@@ -448,7 +503,8 @@
    "category": "Files, docs & notes",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=is.xyz.mpv",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Advanced Download Manager",
@@ -456,7 +512,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.dv.adm",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Bring! Grocery Shopping List",
@@ -464,7 +521,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=ch.publisheria.bring",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Expensify - Travel & Expense",
@@ -472,7 +530,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.me.mobiexpensifyg",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Goblin Tools",
@@ -480,7 +539,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.goblintools",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Docs",
@@ -488,7 +548,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Drive",
@@ -496,7 +557,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Sheets",
@@ -504,7 +566,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Slides",
@@ -512,7 +575,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Translate",
@@ -520,7 +584,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Tresorit",
@@ -528,7 +593,8 @@
    "category": "Productivity",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.tresorit.mobile",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "1Password",
@@ -536,7 +602,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.onepassword.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "OpenKeychain",
@@ -544,7 +611,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Signal",
@@ -552,7 +620,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Element",
@@ -560,7 +629,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=im.vector.app",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Tor Browser",
@@ -568,7 +638,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.torproject.torbrowser",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Linphone",
@@ -576,7 +647,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=org.linphone",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Pushover",
@@ -584,7 +656,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=net.superblock.pushover",
-   "comment": "An amazing deal for receiving emergency notifications."
+   "comment": "An amazing deal for receiving emergency notifications.",
+   "section": "favorites"
   },
   {
    "name": "Hermit",
@@ -592,7 +665,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab",
-   "comment": "An incredibly useful sandboxing tool for web apps."
+   "comment": "An incredibly useful sandboxing tool for web apps.",
+   "section": "favorites"
   },
   {
    "name": "HeliBoard",
@@ -600,7 +674,8 @@
    "category": "Privacy & comms",
    "source": "F-Droid",
    "link": "https://f-droid.org/packages/helium314.keyboard/",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Bluesky",
@@ -608,7 +683,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=xyz.blueskyweb.app",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Proton Mail: Encrypted Email",
@@ -616,7 +692,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=ch.protonmail.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Yealink Connect",
@@ -624,7 +701,8 @@
    "category": "Privacy & comms",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.yealink.yc_app",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Home Assistant",
@@ -632,7 +710,8 @@
    "category": "Smart home",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=io.homeassistant.companion.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "UniFi",
@@ -640,7 +719,8 @@
    "category": "Smart home",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.ubnt.easyunifi",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Claude",
@@ -648,7 +728,8 @@
    "category": "AI",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.anthropic.claude",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "ChatGPT",
@@ -656,7 +737,8 @@
    "category": "AI",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.openai.chatgpt",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Gemini",
@@ -664,7 +746,8 @@
    "category": "AI",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google AI Edge Gallery",
@@ -672,7 +755,8 @@
    "category": "AI",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "DeepL",
@@ -680,7 +764,8 @@
    "category": "AI",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "GitHub",
@@ -688,7 +773,8 @@
    "category": "Dev & admin",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.github.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Admin",
@@ -696,7 +782,8 @@
    "category": "Dev & admin",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.cpanel",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google Cloud",
@@ -704,7 +791,8 @@
    "category": "Dev & admin",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.cloudconsole",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "HashCalc: MD5, SHA, HMAC",
@@ -712,7 +800,8 @@
    "category": "Dev & admin",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.goyalsoftech.hashcalc",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Ampere",
@@ -720,7 +809,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.gombosdev.ampere",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Universal Copy",
@@ -728,7 +818,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.camel.corp.universalcopy",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Precise Volume",
@@ -736,7 +827,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.phascinate.precisevolume",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "what3words",
@@ -744,7 +836,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.what3words.android",
-   "comment": "A brilliant concept."
+   "comment": "A brilliant concept.",
+   "section": "favorites"
   },
   {
    "name": "9eSIM",
@@ -752,7 +845,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=ee.nekoko.nlpa.flavor1",
-   "comment": "Super useful for adding eSIM capability to phones that don't have it."
+   "comment": "Super useful for adding eSIM capability to phones that don't have it.",
+   "section": "favorites"
   },
   {
    "name": "Brother iPrint&Label",
@@ -760,7 +854,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.brother.ptouch.iprintandlabel",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Footpath Route Planner",
@@ -768,7 +863,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.halfmilelabs.footpath",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Gett - The taxi app",
@@ -776,7 +872,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.gettaxi.android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Google's Find Hub",
@@ -784,7 +881,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.adm",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Guava: Health Tracker",
@@ -792,7 +890,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.guavahealth.app",
-   "comment": "My favourite health tracking app."
+   "comment": "My favourite health tracking app.",
+   "section": "favorites"
   },
   {
    "name": "Macro Deck",
@@ -800,7 +899,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=app.macrodeck.companion",
-   "comment": "Discovered this very belatedly, but it's incredibly useful."
+   "comment": "Discovered this very belatedly, but it's incredibly useful.",
+   "section": "favorites"
   },
   {
    "name": "MetaMask: Trade Crypto",
@@ -808,7 +908,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=io.metamask",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "NIIMBOT",
@@ -816,7 +917,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.gengcon.android.jccloudprinter",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Nova Launcher Lifetime Prime",
@@ -824,7 +926,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Pebblebee",
@@ -832,7 +935,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.pebblebee.pebblebeeplus",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Unified Remote Full",
@@ -840,7 +944,8 @@
    "category": "Utilities",
    "source": "Play Store",
    "link": "https://play.google.com/store/apps/details?id=com.Relmtech.RemotePaid",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Hebrish",
@@ -848,7 +953,8 @@
    "category": "My own apps",
    "source": "GitHub",
    "link": "https://github.com/Hebrish-ASR/Hebrish-App",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "GitHub Discovery",
@@ -856,7 +962,8 @@
    "category": "My own apps",
    "source": "GitHub",
    "link": "https://github.com/danielrosehill/GitHub-Discovery",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Local UTC Widget",
@@ -864,7 +971,8 @@
    "category": "My own apps",
    "source": "GitHub",
    "link": "https://github.com/danielrosehill/Local-UTC-Widget",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Selection Case Converter",
@@ -872,7 +980,8 @@
    "category": "My own apps",
    "source": "GitHub",
    "link": "https://github.com/danielrosehill/Android-Selection-Case-Converter",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
   },
   {
    "name": "Family First Aid",
@@ -880,7 +989,658 @@
    "category": "My own apps",
    "source": "GitHub",
    "link": "https://github.com/danielrosehill/Family-First-Aid-Android",
-   "comment": ""
+   "comment": "",
+   "section": "favorites"
+  },
+  {
+   "name": "HTTP Request Shortcuts",
+   "package": "ch.rmy.android.http_shortcuts",
+   "category": "Automation & power use",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=ch.rmy.android.http_shortcuts",
+   "comment": "Home-screen buttons that fire HTTP and webhook calls; pairs well with Tasker and Home Assistant.",
+   "play_updated": "Nov 13, 2026"
+  },
+  {
+   "name": "Button Mapper: Remap your keys",
+   "package": "flar2.homebutton",
+   "category": "Automation & power use",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=flar2.homebutton",
+   "comment": "Remap hardware buttons; a good companion to Key Mapper.",
+   "play_updated": "Oct 23, 2026"
+  },
+  {
+   "name": "LADB — Local ADB Shell",
+   "package": "com.draco.ladb",
+   "category": "Automation & power use",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.draco.ladb",
+   "comment": "An ADB shell on the phone itself.",
+   "play_updated": "Jul 27, 2026"
+  },
+  {
+   "name": "NFC Tasks",
+   "package": "com.wakdev.nfctasks",
+   "category": "Automation & power use",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.wakdev.nfctasks",
+   "comment": "Companion to NFC Tools: runs the tasks written to NFC tags.",
+   "play_updated": "Aug 24, 2026"
+  },
+  {
+   "name": "Activity Launcher",
+   "package": "de.szalkowski.activitylauncher",
+   "category": "Automation & power use",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher",
+   "comment": "Launch hidden activities and make shortcuts to them.",
+   "play_updated": "Jul 13, 2026"
+  },
+  {
+   "name": "FUTO Voice Input",
+   "package": "org.futo.voiceinput",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=org.futo.voiceinput",
+   "comment": "Offline Whisper dictation as an input method.",
+   "play_updated": "Oct 31, 2026"
+  },
+  {
+   "name": "FUTO Keyboard",
+   "package": "org.futo.inputmethod.latin.playstore",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore",
+   "comment": "Privacy-first keyboard with offline voice typing built in.",
+   "play_updated": "Aug 4, 2026"
+  },
+  {
+   "name": "AudioRelay: Stream audio & mic",
+   "package": "com.azefsw.audioconnect",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.azefsw.audioconnect",
+   "comment": "Streams the phone's mic (or audio) to a desktop.",
+   "play_updated": "Nov 6, 2026"
+  },
+  {
+   "name": "WO Mic",
+   "package": "com.wo.voice2",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.wo.voice2",
+   "comment": "Use the phone as a PC microphone.",
+   "play_updated": "Nov 11, 2026"
+  },
+  {
+   "name": "RecForge II Pro: Voice Rec",
+   "package": "dje073.android.modernrecforgepro",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=dje073.android.modernrecforgepro",
+   "comment": "A pro recorder with fine control over formats and quality.",
+   "play_updated": "Oct 16, 2026"
+  },
+  {
+   "name": "Tape-a-Talk Voice Recorder",
+   "package": "name.markus.droesser.tapeatalk",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=name.markus.droesser.tapeatalk",
+   "comment": "A dependable long-running voice recorder.",
+   "play_updated": "Oct 11, 2026"
+  },
+  {
+   "name": "Live Transcribe & notification",
+   "package": "com.google.audio.hearing.visualization.accessibility.scribe",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe",
+   "comment": "Google's on-device live captions and transcription.",
+   "play_updated": "Oct 21, 2026"
+  },
+  {
+   "name": "Typeless: AI Voice Keyboard",
+   "package": "com.typeless.mobile",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.typeless.mobile",
+   "comment": "AI voice keyboard that cleans up dictation.",
+   "play_updated": "Nov 11, 2026"
+  },
+  {
+   "name": "AntennaPod - Podcast Player",
+   "package": "de.danoeh.antennapod",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=de.danoeh.antennapod",
+   "comment": "Open-source podcast player.",
+   "play_updated": "Nov 11, 2026"
+  },
+  {
+   "name": "Snipd | AI Podcast Player",
+   "package": "ai.topicfinder.podcastdiscovery",
+   "category": "Audio & voice",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=ai.topicfinder.podcastdiscovery",
+   "comment": "AI podcast player with snips and transcripts.",
+   "play_updated": "Nov 4, 2026"
+  },
+  {
+   "name": "NoiseCapture",
+   "package": "org.noise_planet.noisecapture",
+   "category": "Noise & sensors",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=org.noise_planet.noisecapture",
+   "comment": "Calibratable noise measurement that contributes to shared noise maps.",
+   "play_updated": "Sep 7, 2026"
+  },
+  {
+   "name": "SoundPrint, Find Quiet Places",
+   "package": "com.soundprint",
+   "category": "Noise & sensors",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.soundprint",
+   "comment": "Crowd-sourced noise meter for finding quiet places.",
+   "play_updated": "Sep 8, 2026"
+  },
+  {
+   "name": "Sensors Multitool",
+   "package": "com.wered.sensorsmultitool",
+   "category": "Noise & sensors",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.wered.sensorsmultitool",
+   "comment": "Every sensor on the phone in one app.",
+   "play_updated": "Jul 24, 2026"
+  },
+  {
+   "name": "ntfy - PUT/POST to your phone",
+   "package": "io.heckel.ntfy",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=io.heckel.ntfy",
+   "comment": "Self-hostable push notifications via simple HTTP PUT/POST.",
+   "play_updated": "Jul 13, 2026"
+  },
+  {
+   "name": "Gotify",
+   "package": "com.github.gotify",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.github.gotify",
+   "comment": "Client for a self-hosted Gotify push server.",
+   "play_updated": "Jul 6, 2026"
+  },
+  {
+   "name": "Viewer for Frigate",
+   "package": "com.frigateviewer",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.frigateviewer",
+   "comment": "Viewer for the Frigate NVR.",
+   "play_updated": "Jul 16, 2026"
+  },
+  {
+   "name": "HA Widgets for Home Assistant",
+   "package": "dk.rtr.hawidgets",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=dk.rtr.hawidgets",
+   "comment": "Home Assistant widgets for the home screen.",
+   "play_updated": "Nov 1, 2026"
+  },
+  {
+   "name": "Kontainer: Portainer Mobile",
+   "package": "com.devculi.kontainer",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.devculi.kontainer",
+   "comment": "Portainer client for managing Docker stacks.",
+   "play_updated": "Oct 26, 2026"
+  },
+  {
+   "name": "Netdata Mobile",
+   "package": "cloud.netdata.android",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=cloud.netdata.android",
+   "comment": "Server monitoring on the go.",
+   "play_updated": "Oct 26, 2026"
+  },
+  {
+   "name": "Proxmox Virtual Environment",
+   "package": "com.proxmox.app.pve_flutter_frontend",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend",
+   "comment": "The official Proxmox VE app.",
+   "play_updated": "Apr 28, 2026"
+  },
+  {
+   "name": "Syncthing-Fork",
+   "package": "com.github.catfriend1.syncthingandroid",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid",
+   "comment": "Syncthing, the maintained Android fork.",
+   "play_updated": "Aug 14, 2026"
+  },
+  {
+   "name": "Audiobookshelf",
+   "package": "com.audiobookshelf.app",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.audiobookshelf.app",
+   "comment": "Client for a self-hosted audiobook and podcast server.",
+   "play_updated": "Sep 28, 2026"
+  },
+  {
+   "name": "MQTT Client - Tasker & IoT&JS",
+   "package": "com.shan.livemq",
+   "category": "Self-hosting & smart home",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.shan.livemq",
+   "comment": "MQTT client with Tasker integration.",
+   "play_updated": "Nov 9, 2026"
+  },
+  {
+   "name": "PCAPdroid - network monitor",
+   "package": "com.emanuelef.remote_capture",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture",
+   "comment": "Packet capture and network monitoring without root.",
+   "play_updated": "Sep 20, 2026"
+  },
+  {
+   "name": "Fing - Network Tools",
+   "package": "com.overlook.android.fing",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.overlook.android.fing",
+   "comment": "LAN scanner and device identification.",
+   "play_updated": "Oct 19, 2026"
+  },
+  {
+   "name": "NetSpot WiFi Heat Map Analyzer",
+   "package": "com.etwok.netspotapp",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.etwok.netspotapp",
+   "comment": "Wi-Fi heat-mapping and site surveys.",
+   "play_updated": "Aug 27, 2026"
+  },
+  {
+   "name": "LTE Discovery",
+   "package": "net.simplyadvanced.ltediscovery",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=net.simplyadvanced.ltediscovery",
+   "comment": "Detailed cellular band and signal information.",
+   "play_updated": "Nov 12, 2026"
+  },
+  {
+   "name": "Network Cell Info & Wifi",
+   "package": "com.wilysis.cellinfo",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.wilysis.cellinfo",
+   "comment": "Cell and Wi-Fi signal information.",
+   "play_updated": "Sep 26, 2026"
+  },
+  {
+   "name": "Meshtastic",
+   "package": "com.geeksville.mesh",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.geeksville.mesh",
+   "comment": "Meshtastic: off-grid LoRa mesh messaging.",
+   "play_updated": "Nov 5, 2026"
+  },
+  {
+   "name": "WireGuard",
+   "package": "com.wireguard.android",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.wireguard.android",
+   "comment": "The official WireGuard client.",
+   "play_updated": "Mar 15, 2026"
+  },
+  {
+   "name": "IPinfo",
+   "package": "io.ipinfo.android",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=io.ipinfo.android",
+   "comment": "IP address lookup.",
+   "play_updated": "Nov 6, 2026"
+  },
+  {
+   "name": "ConnectBot: SSH & Mosh client",
+   "package": "org.connectbot",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=org.connectbot",
+   "comment": "Open-source SSH client.",
+   "play_updated": "Oct 13, 2026"
+  },
+  {
+   "name": "AVNC",
+   "package": "com.gaurav.avnc",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.gaurav.avnc",
+   "comment": "Open-source VNC client.",
+   "play_updated": "Aug 5, 2026"
+  },
+  {
+   "name": "HTTP Toolkit",
+   "package": "tech.httptoolkit.android.v1",
+   "category": "Networking",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=tech.httptoolkit.android.v1",
+   "comment": "Intercept and debug HTTP(S) traffic.",
+   "play_updated": "Aug 27, 2026"
+  },
+  {
+   "name": "TrueScreen: certified evidence",
+   "package": "com.truescreen.app",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.truescreen.app",
+   "comment": "Certified photo and video evidence.",
+   "play_updated": "Nov 11, 2026"
+  },
+  {
+   "name": "Truepic Vision",
+   "package": "com.truepic.vision",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.truepic.vision",
+   "comment": "Verified photo capture with provenance.",
+   "play_updated": "Oct 23, 2026"
+  },
+  {
+   "name": "Evidence Camera & Metadata Pro",
+   "package": "com.cyprnet.smartmetadatacamerapro",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.cyprnet.smartmetadatacamerapro",
+   "comment": "Evidence camera with metadata overlays.",
+   "play_updated": "Aug 15, 2026"
+  },
+  {
+   "name": "CubiCasa | 2D & 3D Floor Plans",
+   "package": "cubi.casa.cubicasaandroidapp",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=cubi.casa.cubicasaandroidapp",
+   "comment": "Floor plans from a quick phone scan.",
+   "play_updated": "Nov 11, 2026"
+  },
+  {
+   "name": "Polycam: 3D Model Maker",
+   "package": "ai.polycam",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=ai.polycam",
+   "comment": "3D capture via LiDAR and photogrammetry.",
+   "play_updated": "Nov 10, 2026"
+  },
+  {
+   "name": "KIRI Engine: 3D Scanner App",
+   "package": "com.kiriengine.app",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.kiriengine.app",
+   "comment": "Photogrammetry 3D scanner.",
+   "play_updated": "Oct 30, 2026"
+  },
+  {
+   "name": "White Balance Kelvin Meter",
+   "package": "com.contechity.color_temp_meter",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.contechity.color_temp_meter",
+   "comment": "Colour temperature (Kelvin) meter.",
+   "play_updated": "Nov 6, 2026"
+  },
+  {
+   "name": "Larix Broadcaster: Live Stream",
+   "package": "com.wmspanel.larix_broadcaster",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.wmspanel.larix_broadcaster",
+   "comment": "Use the phone as a live-stream camera (SRT/RTMP).",
+   "play_updated": "Nov 9, 2026"
+  },
+  {
+   "name": "StreamCtrl - Remote for OBS",
+   "package": "dev.t4ils.obs_remote",
+   "category": "Camera, evidence & measuring",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote",
+   "comment": "Remote control for OBS.",
+   "play_updated": "Oct 30, 2026"
+  },
+  {
+   "name": "FairEmail, privacy aware email",
+   "package": "eu.faircode.email",
+   "category": "Privacy & security",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=eu.faircode.email",
+   "comment": "Privacy-focused open-source email client.",
+   "play_updated": "Nov 14, 2026"
+  },
+  {
+   "name": "Ente Photos - Encrypted Backup",
+   "package": "io.ente.photos",
+   "category": "Privacy & security",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=io.ente.photos",
+   "comment": "End-to-end encrypted photo backup.",
+   "play_updated": "Nov 12, 2026"
+  },
+  {
+   "name": "Yubico Authenticator",
+   "package": "com.yubico.yubioath",
+   "category": "Privacy & security",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.yubico.yubioath",
+   "comment": "TOTP codes stored on a YubiKey.",
+   "play_updated": "Nov 4, 2026"
+  },
+  {
+   "name": "2FA Authenticator (2FAS)",
+   "package": "com.twofasapp",
+   "category": "Privacy & security",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.twofasapp",
+   "comment": "Open-source two-factor authenticator.",
+   "play_updated": "Oct 19, 2026"
+  },
+  {
+   "name": "Briar",
+   "package": "org.briarproject.briar.android",
+   "category": "Privacy & security",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=org.briarproject.briar.android",
+   "comment": "Messaging over Tor or a local mesh, even without internet.",
+   "play_updated": "Oct 30, 2026"
+  },
+  {
+   "name": "Bitwarden Password Manager",
+   "package": "com.x8bit.bitwarden",
+   "category": "Privacy & security",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+   "comment": "Open-source password manager.",
+   "play_updated": "Oct 29, 2026"
+  },
+  {
+   "name": "Organic Maps・Offline Map & GPS",
+   "package": "app.organicmaps",
+   "category": "Maps",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=app.organicmaps",
+   "comment": "Offline OpenStreetMap maps, privacy-first.",
+   "play_updated": "Nov 15, 2026"
+  },
+  {
+   "name": "Israel Hiking Map",
+   "package": "il.org.osm.israelhiking",
+   "category": "Maps",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=il.org.osm.israelhiking",
+   "comment": "The best trail map for hiking in Israel.",
+   "play_updated": "Sep 3, 2026"
+  },
+  {
+   "name": "SW Maps - GIS & Data Collector",
+   "package": "np.com.softwel.swmaps",
+   "category": "Maps",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=np.com.softwel.swmaps",
+   "comment": "GIS data collection in the field.",
+   "play_updated": "Sep 8, 2026"
+  },
+  {
+   "name": "PocketPal AI",
+   "package": "com.pocketpalai",
+   "category": "AI",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.pocketpalai",
+   "comment": "Run small LLMs on the phone.",
+   "play_updated": "Nov 10, 2026"
+  },
+  {
+   "name": "LM Playground",
+   "package": "com.druk.lmplayground",
+   "category": "AI",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.druk.lmplayground",
+   "comment": "On-device LLM playground.",
+   "play_updated": "Oct 24, 2026"
+  },
+  {
+   "name": "Happy: Codex & Claude Code App",
+   "package": "com.ex3ndr.happy",
+   "category": "AI",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.ex3ndr.happy",
+   "comment": "Run Claude Code and Codex sessions from the phone.",
+   "play_updated": "Oct 3, 2026"
+  },
+  {
+   "name": "Tzofar - Red Alert | צופר",
+   "package": "com.redalert.tzevaadom",
+   "category": "Israel",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.redalert.tzevaadom",
+   "comment": "Tzofar: rocket and missile alerts in Israel.",
+   "play_updated": "Sep 21, 2026"
+  },
+  {
+   "name": "iFixit",
+   "package": "com.ifixit.ifixitmobile",
+   "category": "Utilities",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=com.ifixit.ifixitmobile",
+   "comment": "Repair guides.",
+   "play_updated": "Oct 1, 2026"
+  },
+  {
+   "name": "Open Food Facts",
+   "package": "org.openfoodfacts.scanner",
+   "category": "Utilities",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner",
+   "comment": "Scanner for the open food products database.",
+   "play_updated": "Aug 15, 2026"
+  },
+  {
+   "name": "Grocy: Grocery Management",
+   "package": "xyz.zedler.patrick.grocy",
+   "category": "Utilities",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy",
+   "comment": "Client for a self-hosted Grocy household inventory.",
+   "play_updated": "Jan 2, 2026"
+  },
+  {
+   "name": "Flic",
+   "package": "io.flic.app",
+   "category": "Utilities",
+   "section": "also-good",
+   "source": "Play Store",
+   "link": "https://play.google.com/store/apps/details?id=io.flic.app",
+   "comment": "Flic smart buttons for one-press automations.",
+   "play_updated": "Jun 18, 2026"
   }
  ]
 }
